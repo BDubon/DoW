@@ -22,7 +22,7 @@ social-vk:
 social-linkedin:
 
 # Comment Section (Disqus)
-disqus-identifier: DoW # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: G-DoW # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
