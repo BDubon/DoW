@@ -4,12 +4,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bdubon.github.io/flexton/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    DoF - Group 1
+author-name:    Group One
 author-image:   1.jpg
-author-job:     Group 1
+author-job:     InfoSci Students
 author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-twitter: defendersofwildlife # Add your twitter account
+about-author:   Creating a Better User Experience.
 
 # Social settings
 social-twitter: defenders 
