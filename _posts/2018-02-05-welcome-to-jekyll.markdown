@@ -2,7 +2,7 @@
 layout: post
 title: "Testing Our New Site!"
 date: 2018-09-17 15:13:18 +0200
-image: 12.jpg
+image: 1.JPG
 tags: [jekyll, docs]
 categories: Defenders
 ---
