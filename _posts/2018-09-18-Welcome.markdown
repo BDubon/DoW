@@ -1,0 +1,19 @@
+---
+layout: post
+title: Welcome!
+image: defenders.jpg
+date: 2018-09-18 09:00:00 +0200
+tags: [Welcome, INST, 362, project, welcome]
+categories: project
+---
+
+
+Welcome to our project's website! On this site you will find post regarding the progress for our group project for INST362 course. The course focuses on user-centered design. Our group will be working with Defenders of Wildlife, a non profit organization that focuses on efforts to save endangered species, provide information on climate change, and protecting the Endangered Species Act (ESA). 
+
+## Group Members
+- Nicolas Fuster
+- Angelina Lyubimova
+- Margarita Nudel-Linetsky
+- Mark Schellhase
+- Mohammad Wahid
+- Bryan Dubon
