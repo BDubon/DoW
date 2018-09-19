@@ -1,6 +1,6 @@
 title: Defenders of Wildlife - Group 1
 description: Creating a Better User Experience
-baseurl: "http://www.projectdow.tk" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.projectdow.tk/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
