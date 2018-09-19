@@ -9,7 +9,7 @@ categories: Project
 
 The user experience (UX) lifecycle process is comprised of 4 distinct parts that tend to be iterative until the desired goal is met. As part of our project, we had to first identify the problem that our client is facing so we can provide a solution that fits their needs. In the UX lifecycle process, this phase would fall into the "Analyze" stage. 
 
-![]({{site.baseurl}}/images/DesignProcess.JPG)
+![]({{site.baseurl}}/images/DesignProcess.JPG "UX Lifecycle Process")
 
 > “The links should take me straight to the content.” 
 
