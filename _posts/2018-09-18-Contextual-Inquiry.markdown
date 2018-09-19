@@ -23,6 +23,7 @@ Once we decided on the questions, we proceded to conduct our interviews. We prov
 
 ![]({{site.baseurl}}/images/user1.jpg "Showing user how to access content.")
 
+--------
 
 ## Last Thoughts
 
