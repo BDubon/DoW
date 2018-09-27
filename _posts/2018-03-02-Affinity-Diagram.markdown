@@ -8,8 +8,8 @@ categories: project
 ---
 
 
-![]({{site.baseurl}}/images/AD.jpeg "Our Group's Affinity Diagram.")(https://github.com/BDubon/DoW/blob/master/images/AD.jpeg)
+[![]({{site.baseurl}}/images/AD.jpeg "Our Group's Affinity Diagram")(https://github.com/BDubon/DoW/blob/master/images/AD.jpeg)]
 
 
 
-#Sample Text
+# Sample Text
