@@ -21,8 +21,4 @@ To begin designing our flow model, we must begin by identifying work roles. The 
 
                                                     [ Insert Image ]
 
-[![]({{site.baseurl}}/images/AD2.png "Our Group's Affinity Diagram")(https://github.com/BDubon/DoW/blob/master/images/AD2.png)]
-
-
-
-# Sample Text
+                                [![]({{site.baseurl}}/images/AD2.png "Our Group's Affinity Diagram")
