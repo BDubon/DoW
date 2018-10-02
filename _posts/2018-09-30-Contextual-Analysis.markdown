@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contextual Analysis
-image: AD2.png
+image: 4.jpg
 date: 2018-09-25 10:00:20 +0200
 tags: [INST, 362, project, Affinity, DIagram, Contextual, Inquiry, UX, user, centered, design, defenders, wildlife]
 categories: project
