@@ -13,8 +13,13 @@ After completing our contextual inquiry, we proceed to make sense of all the dat
 
 # Flow Model
 To begin designing our flow model, we must begin by identifying work roles. The purpose of the flow model is help us have a visual representation of the transactions between users and the Center for Conservation Innovation's (CCI) website. As shown in the flow model below, there aren't many work roles. This is due to the fact that the website has been  
+                                                    [ Insert Image ]
 
-[ Insert Image ]
+------------------------------------------------
+
+# Work Activity Affinity Diagram 
+
+                                                    [ Insert Image ]
 
 [![]({{site.baseurl}}/images/AD2.png "Our Group's Affinity Diagram")(https://github.com/BDubon/DoW/blob/master/images/AD2.png)]
 
