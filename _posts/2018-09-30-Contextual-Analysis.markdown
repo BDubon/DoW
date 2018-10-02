@@ -18,7 +18,4 @@ To begin designing our flow model, we must begin by identifying work roles. The 
 ------------------------------------------------
 
 # Work Activity Affinity Diagram 
-
-                                                    [ Insert Image ]
-
-                                ![Affinity Diagram](/images/INST362_Affinity_Diagram.png "Our groups affinity diagram")
+![Affinity Diagram](/images/INST362_Affinity_Diagram.png "Our groups affinity diagram")
