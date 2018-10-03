@@ -14,13 +14,17 @@ After completing our contextual inquiry, we proceed to make sense of all the dat
 # Flow Model
 To begin designing our flow model, we must begin by identifying work roles. The purpose of the flow model is help us have a visual representation of the transactions between users and the Center for Conservation Innovation's (CCI) website. 
 
-### Work Roles
+
+## Work Roles
 Major Work Role: End User browsing or searching the site to get information.
+
 ### Subroles:
 - Decision Makers/Policy Analysts, who may use the site’s resources (Maps, Apps, and Research articles) to gather information about proposing certain legislation.
 - Environmental Activists, who may use the site’s resources to gather statistics to back their cause
 Researchers, including students in college and university, who are using the site’s resources to gather statistics, information, or insights about conservation topics.
 - General User/Voter, who may be curious to see exactly what kind of research his/her donations are funding.
+
+
 ### Machine Roles
 - Database, stores all of the information, content and data shown on the site.
 - CCI Website, an interface that the end user can interact with and fulfill their information need, as well as an organized collection of resources available to the end user.
