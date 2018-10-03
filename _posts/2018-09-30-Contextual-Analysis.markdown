@@ -31,8 +31,9 @@ Researchers, including students in college and university, who are using the sit
 - Web Apps, an interface that the end user can interact with and fulfill their information need
 Defenders.org, the actual website that the Defenders organization uses to sway people and policymakers to support their cause.
 
-                                                   
-![Flow Model](/images/FM.JPG "Flow Model for Center for Conservation Innovation Website")
+<p align="center">
+  <img src="https://github.com/BDubon/DoW/blob/master/images/FM.JPG" alt="Flow Model for Center for Conservation Innovation Website"/>
+</p>                                                  
 
 ------------------------------------------------
 
@@ -44,4 +45,4 @@ The ones we went with were Purpose of the Site, Discoverability of Features, Nav
 Apps. The sub categories we split into: Map Functionality, App Functionality, General, Search, Speed of
 Navigation, Unintuitive Interface.
 
-![Affinity Diagram](/images/INST362_Affinity_Diagram.png "Our groups affinity diagram")
+![Affinity Diagram](/images/INST362_Affinity_Diagram.png "Our Group's Affinity Diagram")
