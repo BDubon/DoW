@@ -6,7 +6,7 @@ url: "projectdow.tk" # the base hostname & protocol for your site, e.g. http://e
 # Author
 author-name:    Group One
 author-image:   wolf.jpg
-author-job:     InfoSci Students
+author-job:     Defenders of Wildlife
 author-email:   bdubon@terpmail.umd.edu # Add your email for contant form.
 author-twitter: defendersofwildlife # Add your twitter account
 about-author:   Creating a Better User Experience. [Read More...]({% post_url 2018-09-25-Contextual-Analysis %})
@@ -22,7 +22,7 @@ social-vk:
 social-linkedin:
 
 # Comment Section (Disqus)
-disqus-identifier: G-DoW # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: G1-DoW # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
