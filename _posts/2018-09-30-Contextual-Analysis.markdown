@@ -32,7 +32,7 @@ Researchers, including students in college and university, who are using the sit
 Defenders.org, the actual website that the Defenders organization uses to sway people and policymakers to support their cause.
 
 <p align="center">
-  <img src="https://github.com/BDubon/DoW/blob/master/images/FM.JPG?raw=true" alt="Flow Model for Center for Conservation Innovation Website"/>
+  <img src="https://github.com/BDubon/DoW/blob/master/images/FM.JPG?raw=true" alt="Flow Model for Center for Conservation Innovation Website" title="Flow Model for Center for Conservation Innovation Website"/>
 </p>                                                  
 
 ------------------------------------------------
