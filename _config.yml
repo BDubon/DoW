@@ -1,5 +1,5 @@
 title: Defenders of Wildlife - Group 1
-description: Creating a Better User Experience
+description: Creating a Better User Experience for everyone and all
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "projectdow.tk" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,7 +9,7 @@ author-image:   wolf.jpg
 author-job:     Defenders of Wildlife
 author-email:   bdubon@terpmail.umd.edu # Add your email for contant form.
 author-twitter: defendersofwildlife # Add your twitter account
-about-author:   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet eget sit amet tellus cras adipiscing enim eu turpis. Blandit aliquam etiam erat velit scelerisque. Purus semper eget duis at tellus at urna. Donec et odio pellentesque diam. Quis hendrerit dolor magna eget est lorem ipsum dolor. Nunc pulvinar sapien et ligula ullamcorper. Ullamcorper dignissim cras tincidunt lobortis feugiat. Sed arcu non odio euismod lacinia. Sed cras ornare arcu dui vivamus arcu felis bibendum ut.
+about-author: 
 
 # Social settings
 social-twitter: defenders 
