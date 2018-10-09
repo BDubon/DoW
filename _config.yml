@@ -9,7 +9,7 @@ author-image:   wolf.jpg
 author-job:     InfoSci Students
 author-email:   bdubon@terpmail.umd.edu # Add your email for contant form.
 author-twitter: defendersofwildlife # Add your twitter account
-about-author:   Creating a Better User Experience. [I'm an inline-style link](http://www.projectdow.tk/2018/09/25/Contextual-Analysis/)
+about-author:   Creating a Better User Experience. [Read More...]({% post_url 2018-09-25-Contextual-Analysis %})
 
 # Social settings
 social-twitter: defenders 
