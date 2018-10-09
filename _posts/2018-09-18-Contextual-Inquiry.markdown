@@ -11,7 +11,7 @@ The user experience (UX) lifecycle process is comprised of 4 distinct parts that
 
 
 <p align="center">
-  <img src="https://github.com/BDubon/DoW/blob/master/images/DesignProcess.JPG?raw=true" alt="UX Lifecycle Process"/>
+  <img src="https://github.com/BDubon/DoW/blob/master/images/DesignProcess.JPG?raw=true" alt="UX Lifecycle Process" title="UX Lifecycle Process"/>
 </p>
 
 > “The links should take me straight to the content.” 
@@ -25,7 +25,7 @@ As part of the analysis, we organized a set of questions to ask potential users 
 Once we decided on the questions, we proceded to conduct our interviews. We provided the users with a laptop to navigate the site and asked the questions that we had prepared while recording the interview for further analysis. A major part of this process was observing how the subjects interacted with the site. We tasked the users with specific activies to record their behavior. Due to their lack of knowledge on the topic and the site's navigation difficulties, multiple users failed to complete the tasks and required assiatance from us to continue the interview. It's important to us to be able to evaluate any design proposals that may arise from this process, so we asked the users if they would be willing to participate in the future if we needed their opinion. 
 
 <p align="center">
-  <img src="https://github.com/BDubon/DoW/blob/master/images/user1.jpg?raw=true" alt="Showing user how to access content."/>
+  <img src="https://github.com/BDubon/DoW/blob/master/images/user1.jpg?raw=true" alt="Showing user how to access content." title="Showing user how to access content."/>
 </p>
 
 --------
