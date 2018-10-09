@@ -1,5 +1,5 @@
 title: Defenders of Wildlife - Group 1
-description: Creating a Better User Experience for everyone and all
+description: Creating a Better User Experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "projectdow.tk" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,7 +9,7 @@ author-image:   wolf.jpg
 author-job:     Defenders of Wildlife
 author-email:   bdubon@terpmail.umd.edu # Add your email for contant form.
 author-twitter: defendersofwildlife # Add your twitter account
-about-author: 
+about-author: Our concept focuses on the user's interaction with the site. Our client, Defenders of Wildlife, uses the Center for Conservation Innovation (CCI) as a hub to share data relating the Endangered Species Act (ESA) with researchers and decision makers. Our goal is to improve the site's navigation to provide a better experience finding the content hosted on the site.
 
 # Social settings
 social-twitter: defenders 
