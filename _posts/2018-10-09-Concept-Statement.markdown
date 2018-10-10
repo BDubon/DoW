@@ -14,7 +14,7 @@ The current site offers a video tutorial on how to navigate it but it's not bein
 
 
 
-## Summary
+### Summary
 
 - The website we are working on will provide a hands-on way to view and interact with data through maps and web applications to extract meaningful insights about conservation of various species and policies surrounding the environmental conservancy field. 
 - We are working for the Defenders of Wildlife group to create a re-design of their secondary website that targets researchers and policy makers.
