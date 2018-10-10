@@ -12,6 +12,8 @@ The Center for Conservation Innovation's website (cci.dev.org) serves as a hub f
 The current site offers a video tutorial on how to navigate it but it's not being introduced properly to the users. We believe that having a proper guide on how to use the site could reduce many of the most common complaints expressed in the interviews we conducted. 
 
 
+
+
 ## Summary
 
 - The website we are working on will provide a hands-on way to view and interact with data through maps and web applications to extract meaningful insights about conservation of various species and policies surrounding the environmental conservancy field. 
