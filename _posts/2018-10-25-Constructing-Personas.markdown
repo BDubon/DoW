@@ -14,5 +14,8 @@ When considering what personas to include, we wanted them to span the range of p
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BDubon/DoW/master/images/persona3.JPG" alt="UX Lifecycle Process" title="UX Lifecycle Process"/>
+  <img src="https://raw.githubusercontent.com/BDubon/DoW/master/images/persona3.JPG" alt="Persona of a 17 year old high school student" title="Persona Example"/>
 </p>
+
+
+The persona above was our attempt to create a user that would visit the website sporadically. By including this persona, we can broaden our perspective on the multiple ways users will interact with the website. Also, being a native speaker of another language helps us keep in mind the terminology that we should use to facilitate accessibility throughout the site's pages. However, the main idea behind 'Jane Doe' was to maintain a sense of simplicity in our design. The website we're working on should be full of content that can be easily accessed by scientists as well as a high school student. 
