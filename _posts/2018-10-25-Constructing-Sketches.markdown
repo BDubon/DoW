@@ -23,6 +23,9 @@ When talking about good ideas, we first started off with wild ideas (like a help
 - Tutorial for how to use the visualizations
 - User profiles for saving the contents of “favorites” so users can do their research on multiple devices
 
+
+
+
 #### Top Ideas
 - Simplifying visualizations
   - Tutorials for use
@@ -38,7 +41,7 @@ When talking about good ideas, we first started off with wild ideas (like a help
 
 ### Sketching Process
 
-Seeing how many of our interview participants commented on the site’s navigation, we decided to focus our sketches on ways to improve the way people navigate through the website to find content and how we can assist them through design or directly provide instructions on certain features. the following sketch show the process of creating a new user account that would allow people to save their most used applications.
+Seeing how many of our interview participants commented on the site’s navigation, we decided to focus our sketches on ways to improve the way people navigate through the website to find content and how we can assist them through design or directly provide instructions on certain features. The following sketch show the process of creating a new user account that would allow people to save their most used applications.
 
 
 <p align="center">
