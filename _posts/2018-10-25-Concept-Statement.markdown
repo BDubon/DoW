@@ -7,10 +7,7 @@ tags: [INST, 362, project, Concept, Statement, UX, user, centered, design, defen
 categories: project
 ---
 
-The Center for Conservation Innovation's website (cci.dev.org) serves as a hub for researchers looking for data and studies relating to the Endangered Species Act (ESA). The organization responsible for managing the site is Defenders of Wildlife.  The organization has its own website (defenders.org) but there isn't any real connection between the two. We will work on CCI's website. We aim to improve the navigation for people to find their content faster by creating a more intuitive interface. The current look of the site seems outdated and, based on our context inquiry, users have trouble navigating the menus. If we are able to present more explicit menu options and reduce the number of clicks a user takes, we believe that the experience would be improved greatly.
-
-The current site offers a video tutorial on how to navigate it but it's not being introduced properly to the users. We believe that having a proper guide on how to use the site could reduce many of the most common complaints expressed in the interviews we conducted. 
-
+ The team is working with the Defenders of Wildlife group to create a redesign of their secondary website that targets researchers and policy makers. The site is intended as a reference when gathering data and insights about various endangered species, and policies proposed and enacted to protect them. Currently, users are confused by the layout and content of the site, and the goal of the redesign is to provide a hands-on way to view and interact with data through maps and web applications to extract meaningful insights about conservation of various species and policies surrounding the environmental conservancy field. This redesign carries significance because it will provide a more accessible way to access hard evidence of environmental issues, and allows understanding of these problems through interaction with data.
 
 
 
