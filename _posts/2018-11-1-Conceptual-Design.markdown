@@ -26,10 +26,20 @@ The conceptual design acts as a mapping from our team of designers to the user. 
 
 ----------------------------------------
 
+### Sketches
+The sketches below show how the user interacts with the system through various perspectives.
+
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/IJBCnWiQrmKri0Ue1UyzaH2w3pHTJrM6FBYrlQTJm8arPyqNMMiaDGUzaxALLSfyaiZ0W7vfPVIsufCA0d4P6sXp_yM6MivfiLHfjGIaIZMggMqJDDNjDgp7BXaTrBxwkbAANjEg" alt="Sketches of how the system would work with the user through vaious perspectives." title="Sketches of how the system would work with the user through vaious perspectives."/>
+</p>
+
+
+----------------------------------------
+
 ### Storyboard
+
+Our storyboard aims to show a scenario involving one of the personas we previously created. In this scenario, a high school students needs graphical content for a project presentation. Using the ‘Maps’ of the Center for Conservation Innovation site, the student can save a screenshot of the endangered species of his/her locality which then can be used on a poster.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BDubon/DoW/master/images/Storyboard.jpg" alt="Storyboard of a scenarion including a previously described persona." title="Storyboard of a scenarion including a previously described persona."/>
 </p>
-
-Our storyboard aims to show a scenario involving one of the personas we previously created. In this scenario, a high school students needs graphical content for a project presentation. Using the ‘Maps’ of the Center for Conservation Innovation site, the student can save a screenshot of the endangered species of his/her locality which then can be used on a poster.
