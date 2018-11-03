@@ -2,7 +2,7 @@
 layout: post
 title: Concept Statement
 image: concept2.jpg
-date: 2018-10-25 11:30:20 +0200
+date: 2018-11-1 11:30:20 +0200
 tags: [INST, 362, project, Concept, Statement, UX, user, centered, design, defenders, wildlife]
 categories: project
 ---
