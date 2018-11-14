@@ -17,7 +17,7 @@ We chose these features because they solved the main problems users were experie
 -----------------------------------------------
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BDubon/DoW/master/images/proto_user.jpg" alt="User interactig with paper prototype." title="User interactig with paper prototype."/>
+  <img src="https://raw.githubusercontent.com/BDubon/DoW/master/images/proto_user.jpg" alt="User interactig with paper prototype." title="User interactig with paper prototype." style="image-orientation: 90deg;" />
 </p>
 
 
