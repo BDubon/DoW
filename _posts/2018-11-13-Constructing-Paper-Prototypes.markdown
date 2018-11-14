@@ -2,7 +2,7 @@
 layout: post
 title: Constructing Paper Prototypes
 image: proto.jpg
-date: 2018-11-1 10:00:20 +0200
+date: 2018-11-13 11:00:20 +0200
 tags: [Prototype, Paper, Sketches, INST, 362, Project]
 categories: project
 ---
