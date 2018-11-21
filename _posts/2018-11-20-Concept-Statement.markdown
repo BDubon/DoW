@@ -7,7 +7,7 @@ tags: [INST, 362, project, Concept, Statement, UX, user, centered, design, defen
 categories: project
 ---
 
- The team is working with the Defenders of Wildlife group to redesign their technical website targeting researchers and policy makers. The site is intended as a reference to extract meaningful insights about policies surrounding environmental conservation. Currently, target users are confused by the layout and content of the site. The goal of the redesign is to give users a faster and more intuitive experience to find the information they need. This significant update will provide a more streamlined way to access hard evidence of environmental issues, and allow greater understanding of these problems through interaction with data and published research. 
+The team is working with the Defenders of Wildlife group to redesign their technical website targeting researchers and policy makers. The site is intended as a reference to extract meaningful insights about policies surrounding environmental conservation. Currently, target users are confused by the layout and content of the site. The goal of the redesign is to give users a faster and more intuitive experience to find the information they need. This significant update will provide a more streamlined way to access hard evidence of environmental issues, and allow greater understanding of these problems through interaction with data and published research. 
 
 
 
