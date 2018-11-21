@@ -15,13 +15,23 @@ The chatbot can help a user on any page. It is activated when a user has been on
 
 On the technical side, this feature would have high initial costs as it would require either natural language processing, machine learning, or both. However, it can be simplified to an MVP by not letting the user type and just suggesting common problems. This could be hard-coded for the most part, with a sequence of if-then statements. Most common problems could be constantly updated through analytics from the site and user traffic. 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BDubon/DoW/master/images/Wireframe_Dodo.JPG" alt="Wireframe showing Darwin, The Dodo Bird, assisting people." title="Wireframe showing Darwin, The Dodo Bird, assisting people."/>
+</p>
+
+---------------------------------------------
 
 #### Feature 2: Simplified Information Organization
 
 As we learned in INST311, Information Organization, it’s very important to lay out information in a clear and organized fashion to improve a user’s experience. With this, first we are showing the user where they are in the global navigation in the top bar. This helps them know where they are on the site at any given time, which helps reduce confusion. Second, we are replicating design patterns across as many pages as possible, standardizing the layout to help the user learn how to use the site much faster through becoming familiar with a similar layout on most of the pages. Third, the main purpose and contents of the site are front and center on the home page - a user immediately sees that they can access Maps, Apps, or Research on this site. They can thus understand the purpose of the site, where they might find information, and what kind of information they could look for and where. Finally, the cards for each asset (for instance, Map 1) are horizontally wide and vertically short. Each card contains a title for the asset, a short description, and a preview image on the right. This pattern will be seen in Maps, Apps and Research for all the assets. 
 
-**Note: While this may seem like an insignificant change, the old design has full-page cards, which required a lot of scrolling from the user, especially for pages with 10+ assets. Some cards had embedded assets that were interactive, and others didn’t, which confused users. Users could previously find Map assets under the App category, and vice versa including Research. The categories didn’t have a clear distinction of what assets they housed.**
+***Note: While this may seem like an insignificant change, the old design has full-page cards, which required a lot of scrolling from the user, especially for pages with 10+ assets. Some cards had embedded assets that were interactive, and others didn’t, which confused users. Users could previously find Map assets under the App category, and vice versa including Research. The categories didn’t have a clear distinction of what assets they housed.***
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BDubon/DoW/master/images/Wireframe_Layouts.JPG" alt="Wireframes showing the proposed layout for the website's redesign." title="Wireframes showing the proposed layout for the website's redesign."/>
+</p>
+
+---------------------------------------------
 
 #### Feature 3: Uniform Navigation
 
