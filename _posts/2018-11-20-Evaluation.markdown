@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evaluation
-image: concept2.jpg
+image: evaluation.jpg
 date: 2018-11-30 11:30:20 +0200
 tags: [INST, 362, project, Evaluation, UX, user, centered, design, defenders, wildlife]
 categories: project
